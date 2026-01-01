@@ -1,0 +1,69 @@
+# Visual Studio 文件
+.vs/
+*.user
+*.suo
+
+# 编译输出
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# NuGet 包
+*.nupkg
+packages/
+*.snupkg
+
+# 发布文件夹
+publish/
+out/
+
+# 依赖项
+node_modules/
+bower_components/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.swp
+*.~*
+
+# 其他
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Test 结果
+TestResults/
+*.trx
+
+# 其他常见忽略
+*.orig
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
